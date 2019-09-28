@@ -9,3 +9,5 @@ then to prepare the Redis server, initial dataset, plan the flow of our applicat
 The source file is a Flask API for the application and it contains methods responsible for: 
 sending a message, reading last message from the certain room, reading all messages from a certain room,
 displaying leaderboard with the user activity.
+
+PDF file contains a project report in PL language.
