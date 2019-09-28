@@ -12,4 +12,4 @@ The source file is a Flask API for the application and it contains methods respo
 sending a message, reading last message from the certain room, reading all messages from a certain room,
 displaying leaderboard with the user activity.
 
-PDF file contains a project report in PL language.
+PDF file contains a detailed project report in PL language.
